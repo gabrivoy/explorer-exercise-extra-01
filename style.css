@@ -12,6 +12,7 @@ body {
     margin-top: 64px;
     margin-bottom: 64px;
     text-align: center;
+    font-size: 15px;
 }
 
 #main #header-image img{
@@ -22,6 +23,11 @@ body {
     margin-bottom: 16px;
     font-family: 'Dosis', sans-serif;
     font-size: 32px;
+}
+
+#main #text-content {
+    width: 540px;
+    margin: auto;
 }
 
 #main #text-title strong{

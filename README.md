@@ -8,7 +8,7 @@ This exercise refers to the module 01 - Introduction to HTML and CSS and is the 
 
 This extra challenge is more intermediary and consists in creating a simple website using HTML and CSS, using a figma layout as a reference. The image below shows how the website should look like.
 
-![Figma layout](challenge-info/layout.png)
+![Figma layout](challenge_info/layout.png)
 *Website Layout*
 
 A more detailed description of the challenge can be found [here](https://efficient-sloth-d85.notion.site/Desafio-intermedi-rio-Recriando-layout-19dfbff7b19c47c59a286afa37d42543).
