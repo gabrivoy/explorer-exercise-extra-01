@@ -1,5 +1,6 @@
 body {
     margin: auto;
+    font-family: 'Open Sans', sans-serif;
 }
 
 #main {
@@ -7,11 +8,16 @@ body {
     height: 486px;
     margin: auto;
     margin-top: 64px;
+    margin-bottom: 64px;
     text-align: center;
 }
 
 #main #header-image img{
     margin-bottom: 32px;
+}
+
+#main #text-title p{
+    font-family: 'Dosis', sans-serif;
 }
 
 #main #text-title {
@@ -36,6 +42,10 @@ footer #line{
 
 footer #footer-content {
     margin-bottom: 40.83px;
+}
+
+footer #footer-content a + a{
+    margin-left: 28px;
 }
 
 footer #footer-image img{
