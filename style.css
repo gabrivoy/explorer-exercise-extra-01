@@ -1,11 +1,13 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+
 body {
     margin: auto;
-    font-family: 'Open Sans', sans-serif;
 }
 
 #main {
     width: 626px;
-    height: 486px;
     margin: auto;
     margin-top: 64px;
     margin-bottom: 64px;
@@ -16,20 +18,31 @@ body {
     margin-bottom: 32px;
 }
 
-#main #text-title p{
-    font-family: 'Dosis', sans-serif;
-}
-
 #main #text-title {
     margin-bottom: 16px;
+    font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+}
+
+#main #text-title strong{
+    color: rgba(238, 36, 255, 1);
 }
 
 #main #text-content p{
     margin-bottom: 32px;
 }
 
+#main #text-content strong{
+    color: rgba(63, 61, 86, 1);
+}
+
+#main #text-content #flutuar{
+    color: rgba(130, 130, 130, 1)
+}
+
 footer {
     text-align: center;
+    padding: 0px;
 }
 
 footer #line{
@@ -48,7 +61,12 @@ footer #footer-content a + a{
     margin-left: 28px;
 }
 
+footer #footer-content a{
+    text-decoration: none;
+}
+
 footer #footer-image img{
     bottom: 0px;
-    width: 100%;
+    width: 1024px;
+    position: center;
 }
