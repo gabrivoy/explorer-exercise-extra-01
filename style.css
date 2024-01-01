@@ -1,0 +1,44 @@
+body {
+    margin: auto;
+}
+
+#main {
+    width: 626px;
+    height: 486px;
+    margin: auto;
+    margin-top: 64px;
+    text-align: center;
+}
+
+#main #header-image img{
+    margin-bottom: 32px;
+}
+
+#main #text-title {
+    margin-bottom: 16px;
+}
+
+#main #text-content p{
+    margin-bottom: 32px;
+}
+
+footer {
+    text-align: center;
+}
+
+footer #line{
+    width: 391px;
+    height: 0px;
+    border: 1px solid rgba(236, 239, 242, 1);
+    margin: auto;
+    margin-bottom: 16px;
+}
+
+footer #footer-content {
+    margin-bottom: 40.83px;
+}
+
+footer #footer-image img{
+    bottom: 0px;
+    width: 100%;
+}
